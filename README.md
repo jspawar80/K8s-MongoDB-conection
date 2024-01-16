@@ -51,7 +51,7 @@ cd .\bin\
 - Open PowerShell and run the following command to download the latest release of kubectl. Make sure you are in the directory bin.
 ```
 curl.exe -O https://s3.us-west-2.amazonaws.com/amazon-eks/1.27.9/2024-01-04/bin/windows/amd64/kubectl.exe
-```
+
 Get-FileHash kubectl.exe
 ```
 3. Set Up kubectl for EKS:
