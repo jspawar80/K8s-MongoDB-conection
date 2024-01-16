@@ -4,7 +4,7 @@
 
 ### Change the Current Directory:
 
-First, change to a directory where you have write permissions. For example, your user's Documents directory:
+1. First, change to a directory where you have write permissions. For example, your user's Documents directory:
 ```
 cd ~\Documents
 ```
