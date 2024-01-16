@@ -1,6 +1,6 @@
 # Guide To access MongoDB from kubernetes cluster local using MongoDBCompass
 
-## To download and install the AWS CLI on Windows using PowerShell, follow these steps:
+### To download and install the AWS CLI on Windows using PowerShell, follow these steps:
 
 1. Change the Current Directory.
 - First, change to a directory where you have write permissions. For example, your user's Documents directory:
